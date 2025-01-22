@@ -4,7 +4,7 @@
 ### How to use (Hugging Face) (processing - 5-10m)
 
 
-![How to use in Hugging Face (portalniy-dev)](https://huggingface.co/spaces/ReVidLabs/frame-interpolator/blob/main/tutorial-hf.gif)
+![How to use in Hugging Face (portalniy-dev)](https://huggingface.co/spaces/ReVidLabs/frame-interpolator/resolve/main/tutorial-hf.gif)
 
 ### ReVidLabs Streamlit Fork
 
